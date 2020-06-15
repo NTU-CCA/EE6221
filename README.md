@@ -1,6 +1,6 @@
-|![image](https://github.com/NTU-CCA/EE7207/blob/master/logo.png)|
+|![image](https://github.com/NTU-CCA/EE6221/blob/master/logo.png)|
 |---|
-# EE6221 - Robotics &amp; Intelligent Sensors, Spring 2020
+# EE6221 - Robotics &amp; Intelligent Sensors
 
 ### Learning Objective:
 
