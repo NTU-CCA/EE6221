@@ -8,7 +8,7 @@ This course introduces fundamental concepts in robotics and intelligent sensing 
 
 ### Content:
 
-Overview of robotics. Motion planning and control. Mobile robots . Controller hardware/software systems. Sensor systems and integration.
+Overview of robotics. Motion planning and control. Mobile robots. Controller hardware/software systems. Sensor systems and integration.
 
 ### Learning Outcome:
 
