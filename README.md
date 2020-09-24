@@ -24,4 +24,17 @@ On completion of this course, the student will be able to model robot manipulato
 - S. B. Niku, "Introduction to Robotics: Analysis, Control, Applications," <i>Wiley</i>, 2010.
 - J. J. Craig, "Introduction to Robotics: Mechanics and Control," <i>Pearson</i>, 2004.
 
+### Notes:
+
+- [EE6221 Robot Control Note](https://github.com/NTU-CCA/EE6221/blob/master/Notes/EE6221%20Robot%20Control%20Note.pdf)
+- [EE6221 Mobile Robots Note](https://github.com/NTU-CCA/EE6221/blob/master/Notes/EE6221%20Mobile%20Robots%20Note.pdf)
+- [EE6221 Intelligent Sensors Note](https://github.com/NTU-CCA/EE6221/blob/master/Notes/EE6221%20Intelligent%20Sensors%20Note.pdf)
+- [EE6221 CA & Summaries](https://github.com/NTU-CCA/EE6221/blob/master/Notes/EE6221%20CA%20%26%20Summaries.pdf)
+
+### Solutions of Past-Year Exam Papers
+
+- [EE6221 AY 2017-2018](https://github.com/NTU-CCA/EE6221/blob/master/Solutions%20of%20Past-Year%20Exam%20Papers/EE6221%202017-2018.pdf)
+- [EE6221 AY 2016-2017](https://github.com/NTU-CCA/EE6221/blob/master/Solutions%20of%20Past-Year%20Exam%20Papers/EE6221%202016-2017.pdf)
+- [EE6221 AY 2015-2016](https://github.com/NTU-CCA/EE6221/blob/master/Solutions%20of%20Past-Year%20Exam%20Papers/EE6221%202015-2016.pdf)
+
 #### Copyright © School of Electrical & Electronic Engineering, Nanyang Technological University. All rights reserved.
